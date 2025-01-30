@@ -35,20 +35,6 @@ The script (`image_processing_lab.py`) contains the following experiments:
 - **Description**: Add salt-and-pepper noise and apply arithmetic mean, median, max, and min filters.
 - **Input Image**: `cameraman.jpg`
 
----
-
-## Project Structure
-Image_Processing_Lab/
-├── images/
-│ ├── cameraman.jpg # Grayscale test image
-│ ├── circuit.jpg # Circuit diagram image
-│ ├── eight.jpg # Digit image for noise testing
-├── code/
-│ ├── image_processing_lab.py # Python script containing all experiments
-├── README.md # Documentation for the repository
-
----
-
 ## Prerequisites
 To run the scripts, make sure you have the following installed:
 - Python 3.x
